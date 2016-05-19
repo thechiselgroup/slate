@@ -111,3 +111,4 @@ assets/css/slate*.css
 assets/css/*.min.css
 
 helpers/*json
+helpers/output.txt
