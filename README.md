@@ -50,13 +50,13 @@ npm install -g grunt
 To make sure the sass is built, run:
 
 ```bash
-npm run build
+grunt build
 ```
 
 To activate the Sass watcher,
 
 ```bash
-npm run watch
+grunt watch
 ```
 
 ## Origin
