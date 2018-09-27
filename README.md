@@ -29,6 +29,24 @@ You now probably want to [build the SASS](#building-sass). Restart your Ghost se
 
 ### Building SASS
 
+In order to run the following commands, you're going to need the following dependencies:
+
+- ruby
+- sass
+- grunt
+
+To install the first two, run:
+
+```bash
+sudo apt install ruby sass # or whichever package manager your OS uses.
+```
+
+To install grunt, use npm:
+
+```bash
+npm install -g grunt
+```
+
 To make sure the sass is built, run:
 
 ```bash
